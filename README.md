@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 -->
 ## 🔭 Eager to grow.
-## 🌱 Storing code as milestones on the learning roadmap at my university.
-## 👯 Storing stuff that is related to the following subjects, courses, and projects.
 ## 💬 Open to new ideas.
+## 🌱 Storing code as milestones on the learning roadmap at my university.
+## 👯 Storing stuff that is related to the following subjects, courses, and projects:
+
 
 
